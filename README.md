@@ -1,0 +1,2 @@
+# Envitter-Project-not-uploaded-beacuse-size-is-large
+Create  app for a users who wants to complete regarding environment. They have to Click a picture Then select category before issue a complete to Bmc or Ngo or tweet a complete. design a website that will handle all the users complete according to category and then come up with the solution.  Technology:-codeigniter(backend),Mysql(Database Sql)
